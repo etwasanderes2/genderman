@@ -8,4 +8,4 @@ It is not a perfect trans flag, as arms and legs both use the same texture. Feel
 
 # Installation
 
-Copy the [genderman directory](./genderman/) into your Resource Pack folder. You can find that folder by opening Minecraft and then going to `Options -> Resource Packs... -> Open Pack Folder`
+Copy the [genderman directory](./genderman/) into your Resource Pack folder (The entire directory, including the `genderman` folder, not just it's contents). You can find that folder by opening Minecraft and then going to `Options -> Resource Packs... -> Open Pack Folder`
